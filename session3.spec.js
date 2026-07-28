@@ -19,7 +19,7 @@ test("Session 3: Functions and Logic", async ({ page }) => {
   console.log(result);
   console.log(isPageLoaded("loaded"));
 
-  // Comparison operators: ==, ===, !=, !==, >, <, >=, <=
+  // Comparison operators: ===, !==, >, <, >=, <=
   console.log(5 === 5);
   console.log(5 === "5");
   console.log(5 !== 3);
