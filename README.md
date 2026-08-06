@@ -1,4 +1,4 @@
-# AO Holdings QA Training Plan
+# QA Training Plan
 
 ## Week 1 — Environment Setup + JS Foundations
 - Session 1 — Setting Up the Environment
